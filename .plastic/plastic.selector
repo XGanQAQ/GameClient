@@ -1,0 +1,4 @@
+repository "GameFramework@x_gan@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
